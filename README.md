@@ -1,2 +1,3 @@
-# number-of-stem-majors
-Job talk for calculating the number of STEM majors
+# Number of STEM Majors
+
+Calculating the number of STEM majors.
